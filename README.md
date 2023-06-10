@@ -120,7 +120,7 @@ To ascertain the full functionality and accuracy of our KaseiCoin crowdsale cont
 
 Successful purchases of the `KaseiCoin` token:
 
-![buy_tokens(execution_results/buy_tokens.gif)
+![buy_tokens](execution_results/buy_tokens.gif)
 
 
 ### Contributors
